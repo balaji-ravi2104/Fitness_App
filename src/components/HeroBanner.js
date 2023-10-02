@@ -28,18 +28,6 @@ const HeroBanner = () => (
       <a
         href="#exercises"
         className="hero-button"
-        style={{
-          marginTop: '45px',
-          textDecoration: 'none',
-          width: '200px',
-          textAlign: 'center',
-          background: '#FF2625',
-          padding: '14px',
-          fontSize: '22px',
-          textTransform: 'none',
-          color: 'white',
-          borderRadius: '4px',
-        }}
       >
         Explore Exercises
       </a>

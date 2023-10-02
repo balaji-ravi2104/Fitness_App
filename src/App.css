@@ -64,6 +64,20 @@ body {
   margin-top: -300px;
 }
 
+.hero-button {
+  margin-top: 45px;
+  text-decoration: none;
+  width: 200px;
+  text-align: center;
+  background: #FF2625;
+  padding: 14px;
+  font-size: 22px;
+  text-transform: none;
+  color: white;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
 .hero-button:hover {
   background: darkred !important;
 }
