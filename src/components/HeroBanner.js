@@ -27,6 +27,7 @@ const HeroBanner = () => (
     <Stack>
       <a
         href="#exercises"
+        className="hero-button"
         style={{
           marginTop: '45px',
           textDecoration: 'none',
